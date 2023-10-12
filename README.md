@@ -1,4 +1,4 @@
-# Controlled retries with SQS using Delayed Messeges
+# custom retry logic with SQS & Lambda - using Delayed messages
 
 ![architecture](./resources/architecture.png "Architecture")
 
