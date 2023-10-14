@@ -1,4 +1,4 @@
-# custom retry logic with SQS & Lambda - using Delayed messages
+# Custom retry logic with SQS & Lambda - using Delayed messages
 
 ![architecture](./resources/architecture.png "Architecture")
 
